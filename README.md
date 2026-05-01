@@ -1,12 +1,15 @@
-﻿# Cronos AD
+# Cronos AD
 
-**Cronos AD** is a desktop application for building school timetables, designed for Brazilian schools.
+**Cronos AD** is a commercial desktop application for building school timetables, designed for Brazilian schools.
+
+> **This is paid software.** A valid license is required to use Cronos AD.
+> To purchase a license, contact: rafaelmaquinelopes@gmail.com
 
 ---
 
 ## Download
 
-Go to the [Releases](https://github.com/LeMaq/Cronos-Releases/releases) page and download the latest `CronosAD.exe`.
+Licensed users can download the latest `CronosAD.exe` from the [Releases](https://github.com/LeMaq/Cronos-Releases/releases) page.
 
 No installer needed â€” just run the file directly.
 
@@ -34,4 +37,4 @@ Cronos AD checks for updates automatically every time it opens. When a new versi
 
 ## License
 
-This software is proprietary and requires a paid license. See [LICENSE](LICENSE) for terms.
+This software is proprietary and requires a paid license. Unauthorized use is strictly prohibited. See [LICENSE](LICENSE) for full terms.
